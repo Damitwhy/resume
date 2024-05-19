@@ -6,3 +6,20 @@ body {
     background-color: rgba(41, 41, 41, 0.6);
     color: rgb(255, 255, 255);
 }
+
+/* List Bullet points and on hover color*/
+
+#navbar-container li,
+#social-media-links li {
+    list-style-type: none;
+}
+
+li a {
+    color: #ffffff;
+
+}
+
+li a:hover {
+    color: black;
+}
+
